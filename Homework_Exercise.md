@@ -1,7 +1,7 @@
 <!-- Example of title -->
-How to crochet amigurumi<!-- omit in toc -->
+**How to crochet amigurumi**<!-- omit in toc -->
 
-*Amigurumi is the Japanese art of knitting or crocheting small, stuffed yarn creatures.
+**Amigurumi** is the Japanese art of knitting or crocheting small, stuffed yarn creatures.
 
 <!-- Here comes the table of content -->
 What you need:
@@ -115,7 +115,7 @@ A few more yarn brands:
 | 20          | Yarn Art Jeans | Light pink |
 | 35          | Yarn Art Jeans | Yellow     |
 
-These are some examples of yarn colours.
+These are some examples of yarn colors.
 
 <!-- Paragraph after table -->
 You will find more yarn colors [here](https://www.olimoripasmanteria.pl/kategoria-produktu/wloczki/jeans/).
