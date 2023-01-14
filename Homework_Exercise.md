@@ -1,5 +1,5 @@
 <!-- Example of title -->
-**How to crochet amigurumi**<!-- omit in toc -->
+# How to crochet amigurumi<!-- omit in toc -->
 
 **Amigurumi** is the Japanese art of knitting or crocheting small, stuffed yarn creatures.
 
@@ -14,9 +14,6 @@ What you need:
   - [Hook](#hook)
   - [Yarn needle](#yarn-needle)
   - [Stitch markers](#stitch-markers)
-
-
-# How to crochet amigurumi<!-- omit in toc -->
 
 <!-- Example of paragraph of text with line break -->
 Crocheting amigurumi can be a lot of fun.  
