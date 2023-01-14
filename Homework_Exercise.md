@@ -16,7 +16,8 @@ What you need:
   - [Stitch markers](#stitch-markers)
 
 <!-- Example of paragraph of text with line break -->
-Crocheting amigurumi can be a lot of fun.  
+Crocheting amigurumi can be a lot of fun.
+
 You just need to try it yourself.  
 
 <!-- Example of another paragraph -->
