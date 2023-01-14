@@ -1,23 +1,23 @@
 <!-- Example of title -->
-How to crochet amigurumi<!-- omit in toc -->
+# How to crochet amigurumi<!-- omit in toc -->
+
+**Amigurumi** is the Japanese art of knitting or crocheting small, stuffed yarn creatures.
 
 <!-- Here comes the table of content -->
 What you need:
 - [Yarn](#yarn)
-  - [Types and colours](#types-and-colours)
+  - [Types and colors](#types-and-colors)
     - [Types](#types)
-    - [Colours](#colours)
+    - [Colors](#colors)
 - [Fiberfill](#fiberfill)
 - [Tools](#tools)
   - [Hook](#hook)
   - [Yarn needle](#yarn-needle)
   - [Stitch markers](#stitch-markers)
 
-
-# How to crochet amigurumi<!-- omit in toc -->
-
 <!-- Example of paragraph of text with line break -->
-Crocheting amigurumi can be a lot of fun.  
+Crocheting amigurumi can be a lot of fun.
+
 You just need to try it yourself.  
 
 <!-- Example of another paragraph -->
@@ -33,25 +33,25 @@ It is very _easy_.
 *Not* difficult as some think.
 
 <!-- Example of strikethrough  -->
-This will definitely ~~not~~ put a smile on your face.
+This will ~~not~~ put a smile on your face.
 
 <!-- Example of headers -->
 # Yarn
-## Types and colours
+## Types and colors
 ### Types
 <!-- Example of external link -->
 [Let's look at yarn types here](https://www.cuddlystitchescraft.com/best-yarn-for-making-amigurumi/)
 
 <!-- Example of link to another file -->
-[And here you'll learn more about acrylic and cotton](YarnTypes.md)
+[And here you will learn more about acrylic and cotton](YarnTypes.md)
 
-### Colours
+### Colors
 <!-- Example of an image -->
-![Yarn colours](./images/yarncolours.jpeg "yarn colours")
-![Amigurumi yarn colours](https://cdn.aldi-digital.co.uk//Rumi-Yarn-B.jpg?o=D%24UIpIBr6t38IVAYRxz3xZ098pcj&V=rPZ2 "amigurumi yarn colours")
+![Yarn colors](./images/yarncolours.jpeg "yarn colours")
+![Amigurumi yarn colors](https://cdn.aldi-digital.co.uk//Rumi-Yarn-B.jpg?o=D%24UIpIBr6t38IVAYRxz3xZ098pcj&V=rPZ2 "amigurumi yarn colours")
 
 <!-- Example of an image with hover text -->
-![Amigurumi colours](./images/amigurumicolours.jpeg "amigurumi colours")
+![Amigurumi colors](./images/amigurumicolours.jpeg "amigurumi colours")
 
 # Fiberfill
 **Fiberfill** is quick-drying synthetic stuffing for cushions that resists mildew.
@@ -107,13 +107,13 @@ A few more yarn brands:
 
 
 <!-- Example of table -->
-| Yarn number | Yarn brand     | Colour     |
+| Yarn number | Yarn brand     | Color     |
 | ----------- | -------------- | ---------- |
 | 01          | Yarn Art Jeans | White      |
 | 20          | Yarn Art Jeans | Light pink |
 | 35          | Yarn Art Jeans | Yellow     |
 
-These are some examples of yarn colours.
+These are some examples of yarn colors.
 
 <!-- Paragraph after table -->
-You will find more yarn colours [here](https://www.olimoripasmanteria.pl/kategoria-produktu/wloczki/jeans/).
+You will find more yarn colors [here](https://www.olimoripasmanteria.pl/kategoria-produktu/wloczki/jeans/).
