@@ -33,7 +33,7 @@ It is very _easy_.
 *Not* difficult as some think.
 
 <!-- Example of strikethrough  -->
-This will definitely ~~not~~ put a smile on your face.
+This will ~~not~~ put a smile on your face.
 
 <!-- Example of headers -->
 # Yarn
@@ -43,7 +43,7 @@ This will definitely ~~not~~ put a smile on your face.
 [Let's look at yarn types here](https://www.cuddlystitchescraft.com/best-yarn-for-making-amigurumi/)
 
 <!-- Example of link to another file -->
-[And here you'll learn more about acrylic and cotton](YarnTypes.md)
+[And here you will learn more about acrylic and cotton](YarnTypes.md)
 
 ### Colors
 <!-- Example of an image -->
