@@ -49,8 +49,8 @@ This will definitely ~~not~~ put a smile on your face.
 
 ### Colours
 <!-- Example of an image -->
-![Yarn colours](./images/yarncolours.jpeg "yarn colours")
-![Amigurumi yarn colours](https://cdn.aldi-digital.co.uk//Rumi-Yarn-B.jpg?o=D%24UIpIBr6t38IVAYRxz3xZ098pcj&V=rPZ2 "amigurumi yarn colours")
+![Yarn colors](./images/yarncolours.jpeg "yarn colours")
+![Amigurumi yarn colors](https://cdn.aldi-digital.co.uk//Rumi-Yarn-B.jpg?o=D%24UIpIBr6t38IVAYRxz3xZ098pcj&V=rPZ2 "amigurumi yarn colours")
 
 <!-- Example of an image with hover text -->
 ![Amigurumi colours](./images/amigurumicolours.jpeg "amigurumi colours")
@@ -118,4 +118,4 @@ A few more yarn brands:
 These are some examples of yarn colours.
 
 <!-- Paragraph after table -->
-You will find more yarn colours [here](https://www.olimoripasmanteria.pl/kategoria-produktu/wloczki/jeans/).
+You will find more yarn colors [here](https://www.olimoripasmanteria.pl/kategoria-produktu/wloczki/jeans/).
